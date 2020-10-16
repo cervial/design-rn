@@ -1,0 +1,208 @@
+.l-branding.site-branding {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+
+.view-cod-front-page-conferences div ul li.views-row {list-style-type: none !important;background: black;color: white;margin: 12px !important;/* min-width: initial; *//* display: table; */max-width: 460px;/* flex-direction: column; */}
+
+.view-cod-front-page-conferences .item-list>ul {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.view-cod-front-page-conferences .views-field-title a {font-weight:bold;font-size: 18px;font-family: cursive;color: cornflowerblue;}
+
+
+
+@media (max-device-width: 500px ){
+.l-branding.site-branding {
+    flex-direction: column;
+}
+
+}
+
+ul.quicktabs-tabs.quicktabs-style-zen {
+    height: 24px;
+}
+
+.adminimal-frontend .column-content-region.left-content.column.panel-panel {
+    width: 100%;
+    min-height: 70vh;
+}
+
+
+.pane-cod-front-page-conferences .views-row {
+    /* display: flex; */
+    /* flex-direction: column; */
+    /*! font-size: 22; */
+    /* background: #00008057; */
+    /*! line-height: 1.3em; */
+    /* max-width: 460px; */
+    /* TEXT-ALIGN: CENTER; */
+}
+.contextual-links-region.panel-pane.pane-views-panes.pane-cod-front-page-conferences-panel-pane-2 {
+  padding: 16px;
+  /*! background: #0000804d; */
+  /*! margin: 18px; */
+  color: white;
+}
+.pane-cod-front-page-conferences .view-content {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 18px;
+    flex-wrap: wrap;
+    padding: 4px;
+    width: 100%;
+}
+.pane-system-user-menu .menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pane-system-user-menu .menu li {
+   margin: 0 11px;
+}
+.pane-title {
+  background: white;
+  padding: 4px 26px;
+  margin: 0;
+  color:black;
+}
+
+/*********fila1 **********/
+
+#logo img {
+    float: left;
+}
+
+.page-node .fila1 .panel-pane {
+    width: auto;
+    /* min-width: 0; */
+    float: right;
+    max-width: fit-content;
+}
+
+.page-node .fila1 .pane-page-logo.container-fluid {
+    float: left;
+}
+
+.page-node .panel-pane.pane-page-logo.container-fluid {}
+
+.page-node .fila1 .panel-pane.pane-system-user-menu {
+    float: right;
+}
+
+.page-node .fila1 .panel-pane.pane-page-tabs {
+    /* width: 100%; */
+    clear: both;
+}
+
+/**/	
+
+
+
+
+
+ ul.tabs.tabs--primary.links--inline li {
+ margin: 2px 0 2px 2px;
+ 
+ }
+/* border-style: solid;
+    border-bottom: none;
+    border-radius: 6px 6px 0 0;
+    border-width: 1;
+    border-color: #326294;
+} */
+
+
+.fila1, .fila2 {
+    margin: auto !important;
+    max-width: 1200px;
+}
+
+.front .fila2, .front div.l-main-wrapper {
+   background-image: url(/sites/eventos.asesoramos.net/files/indoors-3341001_1280.jpg);
+  
+   background-color: #555;
+   background-repeat: no-repeat;
+   background-position-x: 50%;
+min-height: 100vh;
+   background-position: 50%;
+   background-attachment: fixed;
+}
+
+.pane-cod-front-page-conferences span.field-content {
+    line-height: 1.1em;
+}
+
+.pane-cod-front-page-conferences  .views-field.views-field-title {
+    height: 2.8em;
+}
+
+.pane-cod-front-page-conferences .views-row img {width: auto;height:auto;overflow: hidden;/* max-width: 460px; *//* background-color: white !important; */}
+.pane-cod-front-page-conferences .views-row {
+    background: #e9eaec;
+    /* color: white; */
+    flex-flow: wrap;
+    font-size: x-large;
+    line-height: 1.3em;
+    display: flex;
+    line-height: 1.2em;
+    margin: 17px;
+    /* position: relative; */
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 460px;
+    flex-wrap: wrap;
+}
+
+.view-cod-front-page-conferences .views-field.views-field-field-dates {
+    font-size: 15px;
+    color: chocolate;
+    display: flex;
+    height: 2em;
+    font-weight: 600;
+    flex-direction: column;
+    justify-self: end;
+    background: white;
+}
+
+.view-cod-front-page-conferences  h2 {
+    color: black;
+    background: white;
+    margin: 16px;
+    padding: 7px 26px;
+    display: inline;
+}
+
+.view-cod-front-page-conferences a.views-ajax-processed-processed {
+    color: ghostwhite;
+    font-weight: bold;
+}
+
+.view-cod-front-page-conferences {
+    display: block;
+    /* background: #00008073; */
+    color: black;
+    flex-flow: wrap;
+    /* min-width: 100%; */
+}
+
+.view-cod-front-page-conferences .views-field.views-field-field-dates {
+    text-align: center;
+    width: 100%;
+}
+.view-cod-front-page-conferences .views-field.views-field-title {
+    min-height: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+	
